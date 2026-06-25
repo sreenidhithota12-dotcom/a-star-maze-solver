@@ -2,8 +2,7 @@
 
 ## Overview
 
-A Python-based visualization of the A* (A-Star) Search Algorithm used to find the shortest path in a grid-based maze. The application demonstrates how heuristic search explores nodes and efficiently determines the optimal path between a start position and a destination while avoiding obstacles.
-
+A Python-based visualization of the A* (A-Star) Search Algorithm used to find the shortest path in a grid-based maze. The project demonstrates fundamental Artificial Intelligence search techniques by visualizing node exploration and optimal path generation using heuristic-based pathfinding.
 ## Features
 
 * A* Search Algorithm implementation
@@ -16,10 +15,9 @@ A Python-based visualization of the A* (A-Star) Search Algorithm used to find th
 
 ## Technologies Used
 
-* Python
-* Tkinter
-* Heap Queue (`heapq`)
-
+- Python
+- Tkinter
+- heapq (Priority Queue)
 ## Algorithm
 
 A* is an informed search algorithm that combines:
@@ -51,6 +49,14 @@ By combining actual and estimated costs, A* efficiently finds the shortest path 
 | 🟦 Blue   | Explored Nodes  |
 | 🟩 Green  | Optimal Path    |
 | ⬜ White   | Unvisited Cells |
+
+## Project Highlights
+
+- Implemented A* Search Algorithm from scratch
+- Utilized Manhattan Distance heuristic
+- Visualized node exploration and path reconstruction
+- Demonstrated heuristic-based AI search techniques
+- Built an interactive GUI using Tkinter
 
 ## Screenshots
 
