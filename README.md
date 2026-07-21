@@ -122,12 +122,3 @@ This project demonstrates:
 * Search algorithm comparison dashboard
 * Performance metrics (execution time, nodes explored, path length)
 
-## Author
-
-### Sreenidhi Thota
-
-Computer Science Engineering (AI & ML)
-
-* GitHub: https://github.com/sreenidhithota12-dotcom
-* LinkedIn: https://www.linkedin.com/in/sreenidhithota-3080a2336
-* LeetCode: https://leetcode.com/u/SREENIDHI_THOTA/
